@@ -100,7 +100,7 @@ body {
 }
 
 .home .container-foto .foto {
-    max-width: 450px;
+    max-width: 550px;
     border-radius: 50%;
 }
 
@@ -136,8 +136,8 @@ body {
 }
 
 .projetos .projeto {
-    max-width: 260px;
-    max-height: 500px;
+    max-width: 250px;
+    max-height: 400px;
     position: relative;
     display: none;
 }
